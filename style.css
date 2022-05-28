@@ -196,12 +196,14 @@ h3{
     position: absolute;
     top: 2550px;
     left: 287px;
+    width:500px;
     color: grey;
 }
 .lastp{
     position: absolute;
     top: 2620px;
-    left: 45%;
+    left: 577px;
+    width:300px;
     padding-bottom: 30px;
 }
 .d{

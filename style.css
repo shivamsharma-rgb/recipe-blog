@@ -1,0 +1,249 @@
+h1{
+    position: absolute;
+    top: 52px;
+    left: 236px;
+    width: 587px;
+    height: 64px;
+    font-size: 48px;
+}
+.p1{
+    position: absolute;
+    top: 128px;
+    left: 261px;
+    width: 592px;
+    height: 51px;
+}
+.i1{
+    position: absolute;
+    top: 150px;
+    left: 236px;
+    width: 13px;
+    height: 8px;
+}
+.i2{
+    position: absolute;
+    top: 222px;
+    left: 234px;
+}
+h2{
+    position: absolute;
+    top: 714px;
+    left: 236px;
+    width: 128px;
+    height: 32px;
+}
+input[type="checkbox"]{
+    display: grid ;
+}
+
+.div{
+    display: flex;
+}
+
+.div > p{
+    margin: 0;
+    width: 554px;
+    height: 50px;
+}
+
+.list{
+    position: absolute;
+    left: 237px;
+    top: 832px;
+}
+h3{
+    font-size: 20px;
+}
+.p2{
+    position: relative;
+    left: 66px;
+    
+}
+.p-1{
+    width: 36px;
+    height: 25px;
+    background-color: orange;
+    text-align: center;
+    padding-top: 10px;
+    position: absolute;
+    left: 236px;
+    top: 1545px;
+    border-radius: 4px;
+}
+.p-2{
+    width: 36px;
+    height: 25px;
+    background-color: orange;
+    text-align: center;
+    padding-top: 10px;
+    position: absolute;
+    left: 236px;
+    top: 1616px;
+    border-radius: 4px;
+}
+.p-3{
+    width: 36px;
+    height: 25px;
+    background-color: orange;
+    text-align: center;
+    padding-top: 10px;
+    position: absolute;
+    left: 236px;
+    top: 1800px;
+    border-radius: 4px;
+}
+.p-4{
+    width: 36px;
+    height: 25px;
+    background-color: orange;
+    text-align: center;
+    padding-top: 10px;
+    position: absolute;
+    left: 236px;
+    top: 2000px;
+    border-radius: 4px;
+}
+.p-5{
+    width: 36px;
+    height: 25px;
+    background-color: orange;
+    text-align: center;
+    padding-top: 10px;
+    position: absolute;
+    left: 236px;
+    top: 2230px;
+    border-radius: 4px;
+}
+.p-6{
+    width: 36px;
+    height: 25px;
+    background-color: orange;
+    text-align: center;
+    padding-top: 10px;
+    position: absolute;
+    left: 236px;
+    top: 2410px;
+    border-radius: 4px;
+}
+.p-7{
+    width: 36px;
+    height: 25px;
+    background-color: orange;
+    text-align: center;
+    padding-top: 10px;
+    position: absolute;
+    left: 236px;
+    top: 2500px;
+    border-radius: 4px;
+}
+.p2a{
+    position: absolute;
+    top: 1525px;
+    left: 287px;
+    width: 529px;
+    height: 40px;
+
+}
+.p2b{
+    position: absolute;
+    top: 1600px;
+    left: 287px;
+    width: 529px;
+    height: 264px;
+
+}
+.p2c{
+    position: absolute;
+    top: 1790px;
+    left: 287px;
+    width: 500px;
+    height:240px;
+
+}
+.p2d{
+    position: absolute;
+    top: 1990px;
+    left: 287px;
+    width: 500px;
+    height: 240px;
+
+}
+.p2e{
+    position: absolute;
+    top: 2220px;
+    left: 287px;
+    width: 529px;
+    height: 40px;
+
+}
+.p2f{
+    position: absolute;
+    top: 2390px;
+    left: 287px;
+    width: 529px;
+    height: 40px;
+
+}
+.p2g{
+    position: absolute;
+    top: 2480px;
+    left: 287px;
+    width: 529px;
+    height: 40px;
+
+}
+.link{
+    position: absolute;
+    top: 2550px;
+    left: 287px;
+    color: grey;
+}
+.lastp{
+    position: absolute;
+    top: 2620px;
+    left: 45%;
+    padding-bottom: 30px;
+}
+.d{
+    border: 0px solid grey;
+    box-shadow: 0px 0px 10px 4px grey;
+    width: 216px;
+    height: 367px;
+    position: absolute;
+    top: 714px;
+    left: 984px;
+    border-radius: 12px;
+}
+.i01{
+    position: absolute;
+    top: 735px;
+    left: 1000px;
+}
+.i021{
+    position: absolute;
+    top: 813px;
+    left: 1005px;
+    
+}
+.i022{
+    position: absolute;
+    top: 890px;
+    left: 1005px;
+}
+.i023{
+    position: absolute;
+    top: 970px;
+    left: 1005px;
+}
+.pp{
+    text-transform: uppercase;
+    position:relative;
+    top: 721px;
+    left: 1049px;
+    font-size: 10px;
+}
+.pp1{
+    position: relative;
+    top: 720px;
+    left: 1049px;
+}
